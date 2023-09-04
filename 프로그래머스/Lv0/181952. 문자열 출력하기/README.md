@@ -1,6 +1,6 @@
 # [ Lv.0 ] 181952. 문자열 출력하기
 
-<img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript&logoColor=white"/> [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
+<img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript&logoColor=auto"/> <img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=auto"/> [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)
 
 ### 성능
 - 속도 : 65.96ms
