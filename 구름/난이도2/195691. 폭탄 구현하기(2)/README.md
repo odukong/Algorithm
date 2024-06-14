@@ -1,4 +1,4 @@
-# [ 난이도3 ] 195691. 폭탄 구현하기(2)
+# [ 난이도2 ] 195691. 폭탄 구현하기(2)
 
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat&logo=javascript&logoColor=auto"/> [문제 바로가기](https://level.goorm.io/exam/195691/%ED%8F%AD%ED%83%84-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-2/quiz/1)
 
